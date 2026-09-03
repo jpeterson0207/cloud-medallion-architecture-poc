@@ -8,4 +8,3 @@ Thumbs.db
 .platform
 .env
 *.log
-data/output/

@@ -1,0 +1,851 @@
+CustomerID,AddressID,AddressType
+1,17,Main Office
+2,14,Main Office
+3,405,Shipping
+4,431,Home
+5,420,Home
+6,308,Shipping
+7,172,Main Office
+8,293,Shipping
+9,124,Home
+10,201,Main Office
+11,316,Home
+12,202,Main Office
+13,411,Home
+14,220,Main Office
+15,326,Shipping
+16,373,Main Office
+17,207,Shipping
+18,265,Main Office
+19,224,Main Office
+20,51,Home
+21,411,Main Office
+22,259,Main Office
+23,324,Home
+24,402,Shipping
+25,432,Home
+26,134,Home
+27,82,Shipping
+28,105,Main Office
+29,48,Main Office
+30,224,Main Office
+31,322,Home
+32,79,Main Office
+33,317,Home
+34,279,Main Office
+35,293,Shipping
+36,13,Home
+37,376,Main Office
+38,233,Home
+39,324,Shipping
+40,96,Main Office
+41,335,Main Office
+42,153,Main Office
+43,275,Main Office
+44,372,Shipping
+45,395,Shipping
+46,338,Main Office
+47,141,Main Office
+48,74,Home
+49,12,Home
+50,297,Main Office
+51,57,Shipping
+52,306,Main Office
+53,55,Main Office
+54,145,Shipping
+55,93,Main Office
+56,40,Shipping
+57,433,Shipping
+58,430,Main Office
+59,201,Main Office
+60,252,Main Office
+61,212,Main Office
+62,250,Home
+63,40,Main Office
+64,352,Shipping
+65,193,Shipping
+66,325,Shipping
+67,414,Main Office
+68,93,Shipping
+69,6,Main Office
+70,338,Home
+71,324,Home
+72,438,Main Office
+73,61,Shipping
+74,178,Shipping
+75,315,Home
+76,280,Main Office
+77,82,Home
+78,380,Shipping
+79,63,Main Office
+80,311,Main Office
+81,275,Main Office
+82,266,Home
+83,390,Main Office
+84,111,Shipping
+85,59,Main Office
+86,16,Shipping
+87,71,Main Office
+88,43,Home
+89,355,Main Office
+90,138,Shipping
+91,247,Main Office
+92,48,Shipping
+93,363,Home
+94,334,Shipping
+95,240,Home
+96,415,Shipping
+97,224,Home
+98,205,Main Office
+99,129,Main Office
+100,102,Home
+101,434,Home
+102,144,Shipping
+103,53,Home
+104,407,Home
+105,160,Main Office
+106,407,Main Office
+107,370,Shipping
+108,222,Shipping
+109,217,Home
+110,383,Shipping
+111,418,Shipping
+112,319,Main Office
+113,311,Shipping
+114,220,Main Office
+115,291,Shipping
+116,192,Home
+117,420,Main Office
+118,231,Main Office
+119,18,Home
+120,130,Home
+121,210,Shipping
+122,310,Home
+123,272,Shipping
+124,204,Main Office
+125,59,Main Office
+126,415,Shipping
+127,220,Main Office
+128,184,Main Office
+129,38,Main Office
+130,337,Shipping
+131,191,Main Office
+132,400,Shipping
+133,63,Main Office
+134,164,Home
+135,6,Home
+136,169,Main Office
+137,239,Home
+138,408,Shipping
+139,120,Home
+140,34,Shipping
+141,146,Home
+142,109,Home
+143,112,Main Office
+144,288,Shipping
+145,367,Home
+146,414,Home
+147,39,Home
+148,331,Shipping
+149,350,Shipping
+150,163,Shipping
+151,102,Main Office
+152,26,Shipping
+153,256,Main Office
+154,141,Shipping
+155,62,Main Office
+156,232,Main Office
+157,308,Shipping
+158,303,Shipping
+159,122,Home
+160,11,Shipping
+161,10,Home
+162,402,Home
+163,3,Shipping
+164,146,Main Office
+165,431,Shipping
+166,19,Home
+167,271,Main Office
+168,173,Home
+169,9,Main Office
+170,241,Main Office
+171,425,Shipping
+172,371,Shipping
+173,141,Shipping
+174,386,Shipping
+175,205,Main Office
+176,285,Shipping
+177,253,Home
+178,25,Shipping
+179,153,Home
+180,233,Shipping
+181,435,Home
+182,63,Shipping
+183,317,Main Office
+184,15,Main Office
+185,25,Main Office
+186,72,Main Office
+187,166,Home
+188,371,Shipping
+189,116,Main Office
+190,46,Main Office
+191,371,Shipping
+192,418,Home
+193,3,Home
+194,445,Main Office
+195,133,Main Office
+196,57,Main Office
+197,156,Main Office
+198,136,Shipping
+199,353,Home
+200,406,Shipping
+201,139,Home
+202,88,Main Office
+203,299,Shipping
+204,62,Main Office
+205,164,Main Office
+206,386,Home
+207,436,Shipping
+208,327,Shipping
+209,343,Main Office
+210,268,Home
+211,124,Home
+212,245,Home
+213,251,Shipping
+214,165,Home
+215,248,Main Office
+216,48,Shipping
+217,393,Shipping
+218,365,Main Office
+219,181,Home
+220,428,Main Office
+221,338,Home
+222,377,Main Office
+223,356,Main Office
+224,39,Shipping
+225,31,Main Office
+226,7,Home
+227,111,Shipping
+228,420,Shipping
+229,97,Shipping
+230,54,Shipping
+231,107,Home
+232,390,Home
+233,264,Shipping
+234,390,Shipping
+235,363,Shipping
+236,336,Main Office
+237,435,Home
+238,55,Main Office
+239,113,Shipping
+240,198,Shipping
+241,445,Home
+242,263,Main Office
+243,400,Shipping
+244,97,Main Office
+245,143,Shipping
+246,85,Home
+247,158,Home
+248,332,Main Office
+249,76,Shipping
+250,449,Main Office
+251,382,Main Office
+252,124,Main Office
+253,236,Main Office
+254,137,Main Office
+255,244,Home
+256,272,Shipping
+257,181,Shipping
+258,61,Home
+259,44,Shipping
+260,221,Main Office
+261,78,Shipping
+262,258,Shipping
+263,261,Shipping
+264,28,Shipping
+265,140,Shipping
+266,51,Main Office
+267,333,Shipping
+268,375,Shipping
+269,100,Shipping
+270,97,Shipping
+271,91,Home
+272,142,Home
+273,312,Shipping
+274,266,Shipping
+275,56,Home
+276,26,Home
+277,128,Main Office
+278,113,Main Office
+279,28,Main Office
+280,295,Shipping
+281,123,Main Office
+282,273,Main Office
+283,142,Main Office
+284,318,Home
+285,367,Shipping
+286,201,Shipping
+287,52,Main Office
+288,376,Home
+289,138,Shipping
+290,106,Main Office
+291,403,Main Office
+292,178,Home
+293,148,Home
+294,306,Shipping
+295,376,Main Office
+296,49,Main Office
+297,258,Home
+298,319,Shipping
+299,379,Shipping
+300,437,Home
+301,123,Main Office
+302,162,Home
+303,36,Main Office
+304,96,Shipping
+305,234,Main Office
+306,7,Home
+307,243,Shipping
+308,172,Main Office
+309,91,Shipping
+310,40,Main Office
+311,348,Main Office
+312,305,Shipping
+313,243,Home
+314,1,Shipping
+315,448,Main Office
+316,242,Main Office
+317,24,Main Office
+318,291,Home
+319,149,Main Office
+320,269,Home
+321,86,Main Office
+322,397,Main Office
+323,52,Shipping
+324,412,Home
+325,172,Shipping
+326,252,Home
+327,180,Home
+328,132,Home
+329,250,Shipping
+330,187,Shipping
+331,7,Shipping
+332,155,Home
+333,171,Home
+334,397,Home
+335,439,Home
+336,248,Main Office
+337,139,Home
+338,266,Home
+339,328,Main Office
+340,76,Shipping
+341,439,Main Office
+342,338,Main Office
+343,183,Shipping
+344,16,Main Office
+345,296,Home
+346,357,Shipping
+347,185,Main Office
+348,382,Main Office
+349,100,Shipping
+350,328,Main Office
+351,141,Home
+352,348,Home
+353,231,Home
+354,90,Shipping
+355,348,Shipping
+356,170,Shipping
+357,302,Shipping
+358,142,Shipping
+359,98,Main Office
+360,297,Home
+361,360,Shipping
+362,428,Home
+363,63,Shipping
+364,408,Shipping
+365,291,Shipping
+366,148,Main Office
+367,5,Shipping
+368,351,Main Office
+369,239,Home
+370,77,Home
+371,149,Home
+372,286,Home
+373,84,Shipping
+374,250,Shipping
+375,34,Shipping
+376,8,Shipping
+377,21,Main Office
+378,145,Home
+379,64,Main Office
+380,251,Shipping
+381,3,Shipping
+382,181,Home
+383,428,Main Office
+384,26,Shipping
+385,71,Shipping
+386,450,Shipping
+387,403,Home
+388,341,Home
+389,80,Main Office
+390,366,Shipping
+391,74,Home
+392,101,Shipping
+393,300,Main Office
+394,149,Main Office
+395,17,Shipping
+396,182,Main Office
+397,416,Home
+398,327,Shipping
+399,217,Shipping
+400,51,Shipping
+401,155,Home
+402,160,Main Office
+403,289,Shipping
+404,348,Shipping
+405,412,Home
+406,72,Home
+407,394,Main Office
+408,129,Main Office
+409,214,Home
+410,103,Shipping
+411,157,Main Office
+412,153,Home
+413,322,Shipping
+414,280,Main Office
+415,193,Shipping
+416,50,Main Office
+417,270,Shipping
+418,356,Shipping
+419,258,Home
+420,365,Shipping
+421,240,Shipping
+422,219,Shipping
+423,216,Shipping
+424,237,Main Office
+425,287,Main Office
+426,393,Shipping
+427,46,Main Office
+428,315,Shipping
+429,403,Main Office
+430,298,Home
+431,192,Main Office
+432,318,Home
+433,290,Shipping
+434,28,Shipping
+435,65,Shipping
+436,344,Main Office
+437,237,Home
+438,236,Main Office
+439,44,Main Office
+440,139,Home
+441,55,Shipping
+442,305,Main Office
+443,421,Shipping
+444,290,Shipping
+445,354,Shipping
+446,443,Main Office
+447,63,Home
+448,300,Home
+449,262,Home
+450,368,Main Office
+451,360,Main Office
+452,265,Main Office
+453,288,Home
+454,254,Main Office
+455,115,Home
+456,328,Main Office
+457,155,Home
+458,160,Home
+459,4,Shipping
+460,320,Home
+461,103,Main Office
+462,35,Main Office
+463,79,Home
+464,62,Home
+465,50,Main Office
+466,105,Main Office
+467,243,Main Office
+468,427,Home
+469,228,Shipping
+470,29,Main Office
+471,154,Shipping
+472,248,Main Office
+473,420,Main Office
+474,431,Home
+475,134,Home
+476,349,Shipping
+477,440,Home
+478,316,Main Office
+479,222,Main Office
+480,326,Main Office
+481,95,Main Office
+482,420,Home
+483,337,Main Office
+484,88,Home
+485,380,Home
+486,280,Main Office
+487,244,Shipping
+488,149,Shipping
+489,342,Main Office
+490,302,Shipping
+491,189,Home
+492,141,Shipping
+493,198,Home
+494,410,Main Office
+495,238,Shipping
+496,417,Shipping
+497,76,Main Office
+498,146,Shipping
+499,62,Home
+500,200,Main Office
+501,298,Shipping
+502,18,Home
+503,334,Home
+504,318,Shipping
+505,22,Shipping
+506,72,Shipping
+507,371,Shipping
+508,142,Main Office
+509,82,Shipping
+510,257,Home
+511,108,Shipping
+512,362,Home
+513,200,Home
+514,33,Main Office
+515,336,Main Office
+516,181,Home
+517,369,Home
+518,174,Shipping
+519,367,Main Office
+520,143,Home
+521,156,Shipping
+522,35,Home
+523,248,Shipping
+524,242,Home
+525,338,Main Office
+526,295,Home
+527,260,Home
+528,270,Shipping
+529,67,Home
+530,166,Home
+531,298,Shipping
+532,300,Home
+533,425,Shipping
+534,35,Main Office
+535,16,Home
+536,82,Main Office
+537,50,Home
+538,55,Shipping
+539,348,Shipping
+540,166,Main Office
+541,396,Home
+542,408,Main Office
+543,54,Main Office
+544,373,Shipping
+545,387,Shipping
+546,33,Main Office
+547,314,Shipping
+548,59,Main Office
+549,434,Home
+550,38,Shipping
+551,391,Shipping
+552,311,Home
+553,431,Main Office
+554,90,Shipping
+555,56,Home
+556,231,Shipping
+557,69,Home
+558,294,Home
+559,103,Main Office
+560,130,Shipping
+561,225,Home
+562,147,Main Office
+563,104,Home
+564,83,Shipping
+565,417,Home
+566,415,Main Office
+567,45,Home
+568,13,Home
+569,343,Main Office
+570,105,Main Office
+571,415,Main Office
+572,3,Shipping
+573,397,Shipping
+574,291,Home
+575,443,Main Office
+576,175,Main Office
+577,350,Home
+578,373,Home
+579,271,Shipping
+580,98,Main Office
+581,293,Shipping
+582,257,Shipping
+583,183,Home
+584,287,Main Office
+585,411,Main Office
+586,225,Shipping
+587,321,Shipping
+588,448,Main Office
+589,292,Main Office
+590,66,Home
+591,153,Main Office
+592,61,Shipping
+593,119,Main Office
+594,308,Home
+595,170,Main Office
+596,115,Shipping
+597,425,Shipping
+598,200,Home
+599,184,Main Office
+600,447,Main Office
+601,148,Main Office
+602,274,Home
+603,124,Home
+604,313,Home
+605,160,Shipping
+606,317,Main Office
+607,280,Home
+608,57,Home
+609,242,Shipping
+610,335,Main Office
+611,17,Shipping
+612,216,Shipping
+613,103,Shipping
+614,392,Main Office
+615,72,Main Office
+616,281,Home
+617,169,Home
+618,450,Main Office
+619,121,Shipping
+620,38,Home
+621,313,Home
+622,428,Main Office
+623,178,Main Office
+624,214,Home
+625,379,Home
+626,42,Home
+627,246,Main Office
+628,139,Home
+629,22,Main Office
+630,19,Shipping
+631,260,Main Office
+632,333,Shipping
+633,221,Shipping
+634,156,Main Office
+635,11,Main Office
+636,14,Main Office
+637,274,Home
+638,441,Shipping
+639,350,Home
+640,378,Main Office
+641,283,Shipping
+642,27,Shipping
+643,393,Shipping
+644,357,Main Office
+645,221,Home
+646,219,Home
+647,71,Main Office
+648,225,Main Office
+649,316,Shipping
+650,181,Main Office
+651,176,Shipping
+652,30,Main Office
+653,119,Main Office
+654,302,Main Office
+655,117,Shipping
+656,383,Home
+657,291,Main Office
+658,411,Main Office
+659,448,Home
+660,128,Main Office
+661,40,Main Office
+662,65,Shipping
+663,93,Shipping
+664,23,Shipping
+665,180,Home
+666,336,Main Office
+667,150,Main Office
+668,311,Shipping
+669,246,Home
+670,63,Home
+671,40,Main Office
+672,129,Home
+673,106,Shipping
+674,362,Home
+675,417,Shipping
+676,440,Main Office
+677,228,Home
+678,155,Shipping
+679,400,Home
+680,150,Home
+681,126,Home
+682,137,Shipping
+683,358,Home
+684,258,Main Office
+685,28,Shipping
+686,211,Home
+687,319,Shipping
+688,144,Main Office
+689,105,Main Office
+690,431,Home
+691,119,Shipping
+692,380,Home
+693,108,Main Office
+694,191,Home
+695,418,Main Office
+696,19,Main Office
+697,358,Shipping
+698,333,Shipping
+699,59,Main Office
+700,256,Main Office
+701,139,Shipping
+702,302,Shipping
+703,154,Main Office
+704,31,Shipping
+705,438,Home
+706,197,Shipping
+707,10,Shipping
+708,197,Shipping
+709,23,Main Office
+710,106,Shipping
+711,95,Home
+712,221,Home
+713,27,Home
+714,157,Main Office
+715,278,Shipping
+716,14,Home
+717,387,Shipping
+718,425,Shipping
+719,415,Home
+720,111,Main Office
+721,175,Home
+722,425,Home
+723,223,Shipping
+724,401,Home
+725,377,Main Office
+726,414,Main Office
+727,284,Shipping
+728,370,Home
+729,148,Home
+730,238,Shipping
+731,294,Home
+732,291,Home
+733,134,Main Office
+734,196,Shipping
+735,382,Main Office
+736,68,Main Office
+737,144,Home
+738,141,Main Office
+739,128,Home
+740,152,Shipping
+741,293,Shipping
+742,20,Home
+743,141,Shipping
+744,138,Home
+745,129,Home
+746,415,Home
+747,7,Main Office
+748,158,Home
+749,339,Shipping
+750,429,Shipping
+751,434,Main Office
+752,228,Shipping
+753,9,Shipping
+754,5,Shipping
+755,19,Shipping
+756,246,Home
+757,433,Home
+758,112,Shipping
+759,30,Home
+760,41,Shipping
+761,313,Home
+762,161,Main Office
+763,226,Main Office
+764,133,Shipping
+765,133,Shipping
+766,66,Main Office
+767,323,Main Office
+768,76,Home
+769,336,Main Office
+770,120,Main Office
+771,336,Main Office
+772,95,Home
+773,260,Shipping
+774,297,Shipping
+775,22,Home
+776,368,Main Office
+777,32,Home
+778,133,Shipping
+779,9,Home
+780,433,Shipping
+781,277,Home
+782,23,Home
+783,121,Shipping
+784,56,Main Office
+785,260,Shipping
+786,58,Home
+787,40,Main Office
+788,105,Shipping
+789,293,Shipping
+790,425,Home
+791,213,Main Office
+792,329,Shipping
+793,449,Shipping
+794,74,Main Office
+795,168,Home
+796,404,Shipping
+797,172,Shipping
+798,334,Shipping
+799,241,Shipping
+800,319,Main Office
+801,83,Shipping
+802,23,Shipping
+803,77,Home
+804,14,Main Office
+805,312,Main Office
+806,414,Shipping
+807,262,Home
+808,400,Home
+809,261,Home
+810,365,Shipping
+811,111,Shipping
+812,426,Home
+813,17,Home
+814,372,Main Office
+815,196,Home
+816,41,Main Office
+817,115,Home
+818,258,Home
+819,323,Home
+820,376,Shipping
+821,276,Home
+822,63,Home
+823,409,Main Office
+824,311,Shipping
+825,338,Home
+826,267,Shipping
+827,163,Shipping
+828,100,Home
+829,151,Main Office
+830,169,Main Office
+831,410,Shipping
+832,119,Shipping
+833,162,Home
+834,60,Home
+835,124,Shipping
+836,376,Shipping
+837,186,Main Office
+838,181,Home
+839,259,Main Office
+840,186,Home
+841,248,Home
+842,118,Shipping
+843,403,Shipping
+844,118,Home
+845,424,Main Office
+846,276,Main Office
+847,398,Shipping
+848,346,Home
+849,341,Main Office
+850,311,Shipping
